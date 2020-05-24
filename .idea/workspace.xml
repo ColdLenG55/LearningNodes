@@ -12,6 +12,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -32,7 +42,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="xml.defaultSchemas" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -89,11 +99,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -112,13 +117,29 @@
       <option name="presentableId" value="Default" />
       <updated>1590310667320</updated>
       <workItem from="1590310672311" duration="2106000" />
+      <workItem from="1590329220249" duration="1335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="702" y="295" key="FileChooserDialogImpl" timestamp="1590329835023">
+      <screen x="0" y="0" width="1844" height="1080" />
+    </state>
+    <state x="702" y="295" key="FileChooserDialogImpl/0.0.1844.1080@0.0.1844.1080" timestamp="1590329835023" />
     <state width="1240" height="295" key="GridCell.Tab.0.bottom" timestamp="1590316337429">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
@@ -167,5 +188,13 @@
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
     <state width="1240" height="295" key="GridCell.Tab.2.right/0.0.1844.1080@0.0.1844.1080" timestamp="1590316337432" />
+    <state x="423" y="182" key="SettingsEditor" timestamp="1590330561247">
+      <screen x="0" y="0" width="1844" height="1080" />
+    </state>
+    <state x="423" y="182" key="SettingsEditor/0.0.1844.1080@0.0.1844.1080" timestamp="1590330561247" />
+    <state x="514" y="273" key="Vcs.Push.Dialog.v2" timestamp="1590330108799">
+      <screen x="0" y="0" width="1844" height="1080" />
+    </state>
+    <state x="514" y="273" key="Vcs.Push.Dialog.v2/0.0.1844.1080@0.0.1844.1080" timestamp="1590330108799" />
   </component>
 </project>
