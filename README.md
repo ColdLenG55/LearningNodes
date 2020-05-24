@@ -25,3 +25,5 @@
 12. 3y:从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
 
 13. interview_internal_reference:2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+
+转自Guide哥B站视频: [强烈推荐！Github 顶级 Java 教程类开源项目推荐！](https://www.bilibili.com/video/BV1Y7411j7Yc/)
